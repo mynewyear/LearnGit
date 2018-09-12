@@ -1,5 +1,5 @@
 "line from terinal." 
 "line from github." 
 "Git is awesome." 
-"line 4th." 
+"Line  -  4th." 
 "after stash" 
